@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wechar</title>
+
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+
+    <link rel="stylesheet" href="css/wechar.css">
+    <link rel="stylesheet" href="font/iconfont.css">
+</head>
+
+<body>
+    <div id="app">
+        <router-view class="router-view"></router-view>
+        <div class="router-link-shell">
+            <router-link to="/wechar-char" class="router-link">
+                <div class="iconfont icon-weixin wechar-img"></div>
+                <div>微信</div>
+            </router-link>
+            <router-link to="/mail-List" class="router-link">
+                <div class="iconfont icon-weimingmingwenjianjia_tongxunlu wechar-img"></div>
+                <div>通讯录</div>
+            </router-link>
+            <router-link to="/find" class="router-link">
+                <div class="iconfont icon-faxian wechar-img"></div>
+                <div>发现</div>
+            </router-link>
+            <router-link to="/me" class="router-link">
+                <div class="iconfont icon-wo wechar-img"></div>
+                <div>我的</div>
+            </router-link>
+        </div>
+    </div>
+
+    <script src="js/wechar-app.js" type="module"></script>
+</body>
+
+</html>

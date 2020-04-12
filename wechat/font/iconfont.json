@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "493454",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "797263",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "1330733",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "5301932",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "5876380",
+      "name": "表情",
+      "font_class": "biaoqing",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5924473",
+      "name": "左",
+      "font_class": "zuo",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "6364167",
+      "name": "二维码",
+      "font_class": "ico",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "9148716",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "9148965",
+      "name": "通讯录",
+      "font_class": "weimingmingwenjianjia_tongxunlu",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "11124969",
+      "name": "加号",
+      "font_class": "21",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "12097776",
+      "name": "语音",
+      "font_class": "yuyin",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    }
+  ]
+}
